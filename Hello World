@@ -1,4 +1,15 @@
+int initial;
+
 void main()
   while true:
     print "X"
 end
+
+int counter (initial)
+int result = 0;  
+if initial <= 5:
+    result = intital
+else 
+  result = 5
+
+print result
